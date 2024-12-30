@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Yéro Diamanka
 pubDatetime: 2022-09-23T04:58:53Z
 modDatetime: 2024-10-14T09:27:28.605Z
 title: How to configure AstroPaper theme
